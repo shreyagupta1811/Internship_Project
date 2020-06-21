@@ -1,0 +1,19 @@
+#footer{
+	background-color:black;
+	width:100%;
+	height:440px;
+	color:white;
+	font-family:verdana;
+}
+#a{
+	font-size:20px;
+}
+#sector{
+	/*border:2px solid red;*/
+	width:100%;
+}
+#b{
+	font-size:30px;
+}
+
+
